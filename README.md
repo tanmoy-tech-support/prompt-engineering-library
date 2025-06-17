@@ -1,9 +1,14 @@
 # 🧠 Prompt Engineering Library
 
-A categorized collection of professional prompts for ChatGPT, Claude, Bard, and similar AI models — tested in real tech and business use.
+High-quality prompt templates categorized by purpose.
 
 ## 📁 Categories
-- `tech-support/` — Troubleshooting, shell, diagnostics
-- `business-writing/` — Reports, proposals, marketing drafts
-- `client-response/` — Email drafts, polite replies, support communication
-- `data-cleaning/` — Prompt templates for text, tabular, or messy data
+| Category | Description | Link |
+|----------|-------------|------|
+| 🛠️ Tech Support | Linux, Shell, Troubleshooting | [prompts/tech-support](prompts/tech-support) |
+| ✉️ Business Writing | Emails, Proposals | [prompts/business-writing](prompts/business-writing) |
+| 🤝 Client Response | Ticket Replies | [prompts/client-response](prompts/client-response) |
+| 🧹 Data Cleaning | CSV, Logs, AI Cleaning | [prompts/data-cleaning](prompts/data-cleaning) |
+
+
+
